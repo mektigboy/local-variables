@@ -14,6 +14,6 @@ contract LocalVariables {
     e = true;
     a = 123;
     b = true;
-    myAddress = address(1);
+    c = address(1);
   }
 }
